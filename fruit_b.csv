@@ -1,0 +1,13 @@
+﻿ID,VitaminA,VitaminD,VitaminK,Vitamin C
+Apples,y,n,n,y
+Bananas,y,y,n,y
+Litchis,y,y,n,y
+Zucchini,y,y,y,y
+Guava,n,y,n,y
+MuskMelon,n,y,n,y
+Papaya,y,y,n,y
+JackFruit,n,y,y,n
+GrapeFruit,y,n,n,n
+WaterMelon,y,n,n,y
+grapes,n,n,y,y
+Pears,n,y,y,y

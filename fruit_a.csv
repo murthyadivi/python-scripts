@@ -1,0 +1,12 @@
+﻿ID,Price,itemcode,Available,In_season,on_sale
+Apples,1.2,Ap,y,y,y
+Bananas,1.4,Ba,y,y,y
+Litchis,1.2,Li,y,y,y
+Zucchini,1.6,Zu,y,y,y
+Guava,2.5,Gu,y,y,n
+Lemon,2.8,Le,y,y,n
+Tomato,2.9,To,y,y,n
+MuskMelon,1.4,Mu,n,y,y
+Papaya,1.6,Pa,y,y,y
+JackFruit,1.3,Ja,y,y,n
+GrapeFruit,1.9,Gr,y,y,y
